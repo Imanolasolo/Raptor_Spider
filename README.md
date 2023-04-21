@@ -1,2 +1,2 @@
 # Raptor_Spider
-ETL project 
+Authors: Imanol Asolo / Alex O. Arévalo
